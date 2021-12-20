@@ -1,0 +1,37 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion_Ahorros.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion_Ahorros.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.pdb
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe.config
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.pdb
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.xml
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.vbprojResolveAssemblyReference.cache
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion_Ahorros.Form1.resources
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion_Ahorros.Resources.resources
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.vbproj.GenerateResource.Cache
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.exe
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.xml
+D:\jorge\Descargas\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe.config
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.pdb
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.xml
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.vbprojResolveAssemblyReference.cache
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion_Ahorros.Resources.resources
+D:\jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.vbproj.GenerateResource.Cache
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion_Ahorros.Gestion.resources
+D:\Jorge\Descargas\Proyectos GitHub\Gestion Ahorros\Gestion Ahorros\bin\Debug\Gestion Ahorros.exe.config
+D:\Jorge\Descargas\Proyectos GitHub\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.exe
+D:\Jorge\Descargas\Proyectos GitHub\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.xml
+D:\Jorge\Descargas\Proyectos GitHub\Gestion Ahorros\Gestion Ahorros\obj\Debug\Gestion Ahorros.pdb
